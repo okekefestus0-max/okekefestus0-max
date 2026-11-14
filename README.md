@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=026975&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Builder+of+Alibaba+Logistics;Cybersecurity+Practitioner;Class+Representative%2C+Tech4Youth+Cybersecurity+Track;Documenting+the+Build+in+Public" alt="Typing PNG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=026975&center=true&vCenter=true&width=700&lines=Cybersecurity;Software+Development;Information+Technology;Digital+Marketing;Business+Management;" alt="Typing SVG" />
 </p>
 
 <br>
