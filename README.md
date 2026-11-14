@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=026975&center=true&vCenter=true&width=700&lines=Cybersecurity;Software+Developer;Information+Technology;Digital+Marketer;Business+Manager;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=026975&center=true&vCenter=true&width=700&lines=Cybersecurity+penetration+Tester;Software+Developer;Information+Technology;Digital+Marketer;Business+Manager;" alt="Typing SVG" />
 </p>
 
 <br>
